@@ -1,0 +1,25 @@
+/* Add CSS styles to your portfolio.css file */
+.portfolio {
+  text-align: center;
+  padding: 20px;
+}
+
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.project {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 10px;
+  width: 300px;
+  text-align: left;
+}
+
+a {
+  text-decoration: none;
+  color: #007bff;
+}
